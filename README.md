@@ -1,4 +1,5 @@
-This is the frontend for my Recipe Management API repository (https://github.com/suhas1602/recipe-management-system). This is a SPA made with React.js.
+This is the frontend for my Recipe Management API repository (https://github.com/suhas1602/recipe-management-system). This is a SPA made with React.js.\
+Go to https://frontend.suhaspasricha.com to see the app in action.
 
 ## Development
 
